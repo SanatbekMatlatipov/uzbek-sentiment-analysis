@@ -9,5 +9,5 @@ The main contributions of this project are:
 
 
 The results obtained through the research:
-![Main Results Table](https://github.com/elmurod1202/uzbek-sentiment-analysis/blob/master/images/results-table.png)
+![Main Results Table]((https://github.com/SanatbekMatlatipov/uzbek-sentiment-analysis/blob/master/images/results-table.png))
 Table:  Accuracy results with different training and test sets.ManualTT- Manually annotated Training and Test sets.TransTT- Translated Training and Test sets.TTMT- Translated dataset for Training, Annotated dataset for Test set.
